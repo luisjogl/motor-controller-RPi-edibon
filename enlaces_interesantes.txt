@@ -1,3 +1,9 @@
 
 Esquemas conexion GPIO con ADC
 https://learn.adafruit.com/reading-a-analog-in-and-controlling-audio-volume-with-the-raspberry-pi?view=all
+
+Implementación PID en C
+https://github.com/cvra/pid#usage
+
+Implementación PID en C++
+https://gist.github.com/bradley219/5373998
